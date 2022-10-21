@@ -1,1 +1,0 @@
-#deploy one instance with a public IP gpc
